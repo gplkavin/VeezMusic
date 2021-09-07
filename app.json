@@ -59,11 +59,6 @@
             "required": false,
             "value": "https://telegra.ph/file/6809135960af808e931b9.png"
         },
-        "OWNER_NAME": {
-            "description": "fill with your username without @",
-            "required": false,
-            "value": "dlwrml"
-        },
         "API_ID": {
             "description": "your App ID from my.telegram.org/apps",
             "required": true
@@ -85,16 +80,6 @@
             "description": "pm-permit for assistant.",
             "required": false,
             "value": "ENABLE"
-        },
-        "UPDATES_CHANNEL": {
-            "description": "if you have channel fill the channel username here without @",
-            "required": false,
-            "value": "levinachannel"
-        },
-        "GROUP_SUPPORT": {
-            "description": "if you have group fill the group username here without @",
-            "required": false,
-            "value": "VeezSupportGroup"
         }
     },
     "buildpacks": [
